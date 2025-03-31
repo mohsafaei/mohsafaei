@@ -9,6 +9,6 @@
 
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsafaei&show_icons=true&theme=github_dark")  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsafaei&show_icons=true&theme=github_dark)  
 
 
