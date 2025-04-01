@@ -12,6 +12,7 @@ Let’s connect! 🚀
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mohsafaei/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jD_-4JcAAAAJ&hl=en)
 
 
 ## Stats
