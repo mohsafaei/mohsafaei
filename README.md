@@ -1,5 +1,11 @@
+## About
+🔬 Researcher | Solid Mechanics | Smart Biomaterials
 
-## Language
+Passionate about the intersection of physics, engineering, and biomaterials, my journey began with a fascination for astronomy and evolved into a deep commitment to non-linear solid mechanics and smart materials. With a strong foundation in mechanical engineering and research experience in hydrogels and Dielectric Elastomer Actuators, I aim to contribute to the future of responsive biomaterials. My work focuses on integrating computational and experimental approaches to advance drug delivery systems and biomedical applications.
+
+Let’s connect! 🚀
+
+## Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsafaei&layout=compact&theme=github_dark"/>
 
