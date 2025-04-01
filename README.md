@@ -18,3 +18,4 @@ Feel free to explore my work through the links below, and don’t hesitate to re
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mohsafaei/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jD_-4JcAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mohammad-Safaei-10)
