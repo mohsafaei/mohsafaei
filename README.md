@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there 👋 This is Mohammad Ali
 
-## This is Mohammad Ali
 🔬 Researcher | Solid Mechanics | Smart Biomaterials
 
 Passionate about the intersection of physics, engineering, and biomaterials, my journey began with a fascination for astronomy and evolved into a deep commitment to non-linear solid mechanics and smart materials. With a strong foundation in mechanical engineering and research experience in hydrogels and Dielectric Elastomer Actuators, I aim to contribute to the future of responsive biomaterials. My work focuses on integrating computational and experimental approaches to advance drug delivery systems and biomedical applications.
