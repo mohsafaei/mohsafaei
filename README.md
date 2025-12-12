@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Mohammad+Ali+Safaei)](https://git.io/typing-svg)
 
+---
 
 <body>
-    <h1>🔬 Researcher | Solid Mechanics | Smart Biomaterials</h1>
+    <h2>🔬 Researcher | Solid Mechanics | Smart Biomaterials</h1>
     <p>
         Passionate about the intersection of physics, engineering, and biomaterials, my journey began with a fascination for astronomy and evolved into a deep commitment to <span class="highlight">non-linear solid mechanics</span> and <span class="highlight">smart materials</span>.
     </p>
@@ -13,16 +14,9 @@
         My work focuses on integrating computational and experimental approaches to advance <span class="highlight">drug delivery systems</span> and <span class="highlight">biomedical applications</span>.
 
 
-
-
----
-🔬 Researcher | Solid Mechanics | Smart Biomaterials
-Passionate about the intersection of physics, engineering, and biomaterials, my journey began with a fascination for astronomy and evolved into a deep commitment to non-linear solid mechanics and smart materials. With a strong foundation in mechanical engineering and research experience in hydrogels and Dielectric Elastomer Actuators, I aim to contribute to the future of responsive biomaterials. My work focuses on integrating computational and experimental approaches to advance drug delivery systems and biomedical applications.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsafaei&label=Profile%20views&color=0e75b6&style=flat" alt="mohsafaei" /> </p>
 
 - 📫 How to reach me **mohammadsf1998@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
