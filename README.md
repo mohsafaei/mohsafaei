@@ -1,4 +1,4 @@
-## Hi there 👋 This is Mohammad Ali
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%880808&lines=Hi%2C+I+am+Mohammad+Ali+Safaei)](https://git.io/typing-svg)
 
 🔬 Researcher | Solid Mechanics | Smart Biomaterials
 
