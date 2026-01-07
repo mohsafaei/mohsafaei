@@ -33,9 +33,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohsafaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsafaei" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohsafaei" target="blank"><img align="center" src="https://img.icons8.com/color/48/google-scholar--v3.png" alt="google-scholar--v3" alt="mohsafaei" height="30" width="40" /></a>
 <p align="left">
-<a href="https://scholar.google.com/citations?user=jD_-4JcAAAAJ&hl=en"> <img align="center "src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+<a href="https://scholar.google.com/citations?user=jD_-4JcAAAAJ&hl"> <img align="center" src="https://img.icons8.com/color/48/google-scholar--v3.png" width="96" height="96"  alt="Google Scholar"/></a>
 </p>
 <p align="left">
 <a href="https://www.researchgate.net/profile/Mohammad-Safaei-10"> <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"> </a>
