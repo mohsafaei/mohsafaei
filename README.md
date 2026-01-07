@@ -33,14 +33,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohsafaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsafaei" height="30" width="40" /></a>
-<p align="left">
 <a href="https://scholar.google.com/citations?user=jD_-4JcAAAAJ&hl"> <img align="center" src="https://img.icons8.com/color/48/google-scholar--v3.png" width="30" height="40"  alt="Google Scholar"/></a>
-</p>
-
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png" alt="external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo"/>
-
-<p align="left">
-<a href="https://www.researchgate.net/profile/Mohammad-Safaei-10"> <img width="30" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png" alt="external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo"/></a>
+<a href="https://www.researchgate.net/profile/Mohammad-Safaei-10"> <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" alt="external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo"/></a>
 </p>
 
 
