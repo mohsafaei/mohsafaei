@@ -12,7 +12,6 @@ My work focuses on integrating computational and experimental approaches to adva
   <img src="https://komarev.com/ghpvc/?username=mohsafaei&label=Profile%20views&color=0e75b6&style=flat" alt="mohsafaei" />
 </p>
 
-📫 Reach me at **mohammadsf1998@gmail.com**
 
 ---
 
@@ -50,6 +49,7 @@ My work focuses on integrating computational and experimental approaches to adva
 ### 🤝 Connect with me
 
 <p align="left">
+  <a href="mailto:mohammadsf1998@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/></a>
   <a href="https://linkedin.com/in/mohsafaei" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
   <a href="https://scholar.google.com/citations?user=jD_-4JcAAAAJ&hl" target="_blank"><img src="https://img.icons8.com/color/48/google-scholar--v3.png" alt="Google Scholar" width="40" height="40"/></a>
   <a href="https://www.researchgate.net/profile/Mohammad-Safaei-10" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" alt="ResearchGate" width="40" height="40"/></a>
