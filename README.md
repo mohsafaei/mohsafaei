@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=36BCF7&lines=Hi%2C+I+am+Mohammad+Ali+Safaei)](https://git.io/typing-svg)
 
-## 🔬 Researcher | Solid Mechanics | Smart Biomaterials
+## 🔬 Researcher | Solid Mechanics | Smart Materials
 
 Passionate about the intersection of physics, engineering, and biomaterials, my journey began with a fascination for astronomy and evolved into a deep commitment to **non-linear solid mechanics** and **smart materials**.
 
