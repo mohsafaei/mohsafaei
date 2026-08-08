@@ -40,7 +40,6 @@ Beyond research, I am an enthusiast of canyoning, mountaineering, and music. ğŸ§
 ### ğŸ“Š Stats
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=mohsafaei&show_icons=true&theme=github_dark" alt="GitHub stats" height="165"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohsafaei&layout=compact&theme=github_dark" alt="Top langs" height="165"/>
 </p>
 
@@ -50,7 +49,7 @@ Beyond research, I am an enthusiast of canyoning, mountaineering, and music. ğŸ§
 
 ---
 
-### ğŸ¤ Connect with m
+### ğŸ¤ Connect with me
 
 You can reach me through the following options:
 <p align="left">
@@ -58,10 +57,6 @@ You can reach me through the following options:
   <a href="https://linkedin.com/in/mohsafaei" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
   <a href="https://scholar.google.com/citations?user=jD_-4JcAAAAJ&hl" target="_blank"><img src="https://img.icons8.com/color/48/google-scholar--v3.png" alt="Google Scholar" width="40" height="40"/></a>
   <a href="https://www.researchgate.net/profile/Mohammad-Safaei-10" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" alt="ResearchGate" width="40" height="40"/></a>
-</p><p align="left">
-  <a href=""https://mail.google.com/mail/?view=cm&to=mohammadsf1998@gmail.com"" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/></a>
-  <a href="https://linkedin.com/in/mohsafaei" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
-  <a href="https://scholar.google.com/citations?user=jD_-4JcAAAAJ&hl" target="_blank"><img src="https://img.icons8.com/color/48/google-scholar--v3.png" alt="Google Scholar" width="40" height="40"/></a>
-  <a href="https://www.researchgate.net/profile/Mohammad-Safaei-10" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" alt="ResearchGate" width="40" height="40"/></a>
 </p>
+
 
