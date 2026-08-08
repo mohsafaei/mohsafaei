@@ -40,8 +40,8 @@ Beyond research, I am an enthusiast of canyoning, mountaineering, and music. ğŸ§
 ### ğŸ“Š Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsafaei&show_icons=true&theme=github_dark" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsafaei&layout=compact&theme=github_dark" alt="Top langs" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=mohsafaei&show_icons=true&theme=github_dark" alt="GitHub stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohsafaei&layout=compact&theme=github_dark" alt="Top langs" height="165"/>
 </p>
 
 <p align="left">
