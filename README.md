@@ -2,7 +2,7 @@
 
 ## 🔬 Computational Solid Mechanics | Smart Materials
 
-<p style="text-align: justify;">
+<p style="text-align: justify"; markdown="1">
 I am passionate about the intersection of computational solid mechanics and artificial intelligence. 
 🤖 As a full-time researcher, I am deeply committed to **non-linear solid mechanics** and **constitutive modeling**. 🛠️ With a background in Mechanical Engineering from my undergraduate and MSc studies, I am currently pursuing my PhD. 
 🎓 This account serves as a repository of my past projects and my current research endeavors. 📚 You can find my publications via my Google Scholar profile provided below. 📄 
