@@ -7,11 +7,11 @@
 I am passionate about the intersection of computational solid mechanics and artificial intelligence. 
 🤖 As a full-time researcher, I am deeply committed to **non-linear solid mechanics** and **constitutive modeling**. 🛠️ With a background in Mechanical Engineering from my undergraduate and MSc studies, I am currently    pursuing my PhD.
 
-</div>
 
 🎓 This account serves as a repository of my past projects and my current research endeavors. 📚 You can find my publications via my Google Scholar profile provided below. 📄 
 My research primarily focuses on the field of **smart materials** and their potential applications in the biomedical field, through which I aim to contribute to the betterment of humanity. ❤️ Beyond research, I am an enthusiast of canyoning, mountaineering, and music. 🧗‍♂️🎶
 
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohsafaei&label=Profile%20views&color=0e75b6&style=flat" alt="mohsafaei" />
